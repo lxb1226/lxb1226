@@ -33,6 +33,11 @@ Here are some ideas to get you started:
 ## 📚 最新博客文章
 
 <!-- BLOG-POST-LIST:START -->
+- [Build a Blog with Hugo and Deploy it to Cloudflare Pages](https://heyjude.blog/posts/deploy-hugo-to-cloudflare/)
+- [Easily Deploy Umami for Website Traffic Statistics on Vercel](https://heyjude.blog/posts/how-to-depoly-umami-with-vercel/)
+- [Integrate Giscus Comment System into Hugo Blog](https://heyjude.blog/posts/giscus-comments-hugo/)
+- [Deploy Your Blog Website to GitHub Pages in 10 Minutes](https://heyjude.blog/posts/how-to-depoly-blog-to-github/)
+- [How to Auto-fill SMS Verification Codes on Mac](https://heyjude.blog/posts/how-to-use-mess-auto/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- 

@@ -1,0 +1,16 @@
+name: 更新博客文章列表
+on:
+  schedule:
+    - cron: '0 1 * * *' # 每天运行一次（可调整频率）
+  workflow_dispatch: # 允许手动触发
+jobs:
+  update-readme:
+    name: 更新博客文章列表
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: 更新博客列表
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://heyjude.blog/index.xml"

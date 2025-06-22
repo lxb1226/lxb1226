@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <!--END_SECTION:activity--> 
 
 
-## 📚 最新博客文章
+## 📚 Latest blog
 
 <!-- BLOG-POST-LIST:START -->
 - [How to Sync Hugo Blog to GitHub Profile](https://heyjude.blog/posts/sync-hugo-blog-to-github-profile/)

@@ -33,11 +33,11 @@ Here are some ideas to get you started:
 ## 📚 Latest blog
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Automatically Translate Your Hugo Blog Using AI](https://heyjude.blog/posts/how-to-translate-hugo-blog-with-ai/)
 - [How to Sync Hugo Blog to GitHub Profile](https://heyjude.blog/posts/sync-hugo-blog-to-github-profile/)
 - [Build a Blog with Hugo and Deploy it to Cloudflare Pages](https://heyjude.blog/posts/deploy-hugo-to-cloudflare/)
 - [Easily Deploy Umami for Website Traffic Statistics on Vercel](https://heyjude.blog/posts/how-to-depoly-umami-with-vercel/)
 - [Integrate Giscus Comment System into Hugo Blog](https://heyjude.blog/posts/giscus-comments-hugo/)
-- [Deploy Your Blog Website to GitHub Pages in 10 Minutes](https://heyjude.blog/posts/how-to-depoly-blog-to-github/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- 

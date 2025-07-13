@@ -43,6 +43,7 @@ Here are some ideas to get you started:
 
 ## My projects
 - [TmpMail](https://www.tmpmail.online/): A free temp mail web.
+- [Avatify](https://www.avatify.online/): An online tool for making avatars.
 <!-- 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
 ![Metrics](https://metrics.lecoq.io/Raymo111?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto) -->

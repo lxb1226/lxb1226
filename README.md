@@ -33,11 +33,11 @@ Here are some ideas to get you started:
 ## 📚 Latest blog
 
 <!-- BLOG-POST-LIST:START -->
+- [FreeConvert.cc - Your Free Online File Conversion Solution](https://heyjude.blog/posts/introducing-freeconvert-free-online-file-converter/)
 - [How to Automatically Translate Your Hugo Blog Using AI](https://heyjude.blog/posts/how-to-translate-hugo-blog-with-ai/)
 - [How to Integrate Microsoft Clarity Analytics Tool into a Hugo Blog Website](https://heyjude.blog/posts/hugo_clarity_integration/)
 - [How to Sync Hugo Blog to GitHub Profile](https://heyjude.blog/posts/sync-hugo-blog-to-github-profile/)
 - [Build a Blog with Hugo and Deploy it to Cloudflare Pages](https://heyjude.blog/posts/deploy-hugo-to-cloudflare/)
-- [Easily Deploy Umami for Website Traffic Statistics on Vercel](https://heyjude.blog/posts/how-to-depoly-umami-with-vercel/)
 <!-- BLOG-POST-LIST:END -->
 
 
